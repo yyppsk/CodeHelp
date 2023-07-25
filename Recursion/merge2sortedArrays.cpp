@@ -17,8 +17,7 @@ void merge(int *arr1, int *arr2, int s1, int s2)
         }
         else
         {
-            h
-                sorted[mainArrayIndex++] = arr2[rightIndex++];
+            sorted[mainArrayIndex++] = arr2[rightIndex++];
         }
     }
     // copy logic
